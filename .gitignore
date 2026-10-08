@@ -1,0 +1,14 @@
+# JMeter temporary/runtime files
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
